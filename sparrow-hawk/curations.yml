@@ -1,0 +1,130 @@
+- id: SpdxDocumentFile:OpenEmbedded ():busybox:1.36.1
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      GPL-2.0-only AND LicenseRef-bzip2-1.0.4: GPL-2.0-only AND LicenseRef-scancode-bzip2-libbzip-1.0.4
+- id: SpdxDocumentFile:OpenEmbedded ():busybox-dev:1.36.1
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      GPL-2.0-only AND LicenseRef-bzip2-1.0.4: GPL-2.0-only AND LicenseRef-scancode-bzip2-libbzip-1.0.4
+- id: SpdxDocumentFile:OpenEmbedded ():busybox-hwclock:1.36.1
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      GPL-2.0-only AND LicenseRef-bzip2-1.0.4: GPL-2.0-only AND LicenseRef-scancode-bzip2-libbzip-1.0.4
+- id: SpdxDocumentFile:OpenEmbedded ():busybox-syslog:1.36.1
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      GPL-2.0-only AND LicenseRef-bzip2-1.0.4: GPL-2.0-only AND LicenseRef-scancode-bzip2-libbzip-1.0.4
+- id: SpdxDocumentFile:OpenEmbedded ():busybox-udhcpc:1.36.1
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      GPL-2.0-only AND LicenseRef-bzip2-1.0.4: GPL-2.0-only AND LicenseRef-scancode-bzip2-libbzip-1.0.4
+- id: SpdxDocumentFile:OpenEmbedded ():fontconfig-utils:2.15.0
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      MIT AND MIT AND LicenseRef-PD: MIT AND MIT AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():glmark2:2023.01
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      GPL-3.0-or-later AND LicenseRef-SGI-1: GPL-3.0-or-later AND SGI-OpenGL
+- id: SpdxDocumentFile:OpenEmbedded ():glmark2-dev:2023.01
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      GPL-3.0-or-later AND LicenseRef-SGI-1: GPL-3.0-or-later AND SGI-OpenGL
+- id: SpdxDocumentFile:OpenEmbedded ():libfontconfig-dbg:2.15.0
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      MIT AND MIT AND LicenseRef-PD: MIT AND MIT AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libfontconfig-dev:2.15.0
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      MIT AND MIT AND LicenseRef-PD: MIT AND MIT AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libfontconfig1:2.15.0
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      MIT AND MIT AND LicenseRef-PD: MIT AND MIT AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libglib-2.0-0:2.78.6
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LGPL-2.1-or-later AND BSD-3-Clause AND LicenseRef-PD: LGPL-2.1-or-later AND BSD-3-Clause AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libglib-2.0-dbg:2.78.6
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LGPL-2.1-or-later AND BSD-3-Clause AND LicenseRef-PD: LGPL-2.1-or-later AND BSD-3-Clause AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libglib-2.0-dev:2.78.6
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LGPL-2.1-or-later AND BSD-3-Clause AND LicenseRef-PD: LGPL-2.1-or-later AND BSD-3-Clause AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libglib-2.0-locale-en-gb:2.78.6
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LGPL-2.1-or-later AND BSD-3-Clause AND LicenseRef-PD: LGPL-2.1-or-later AND BSD-3-Clause AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libglib-2.0-utils:2.78.6
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LGPL-2.1-or-later AND BSD-3-Clause AND LicenseRef-PD: LGPL-2.1-or-later AND BSD-3-Clause AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():liblzma5:5.4.7
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LicenseRef-PD: LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libpixman-1-0:0.42.2
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      MIT AND LicenseRef-PD: MIT AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libpixman-1-dbg:0.42.2
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      MIT AND LicenseRef-PD: MIT AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libpixman-1-dev:0.42.2
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      MIT AND LicenseRef-PD: MIT AND LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libsqlite3-0:3.45.3
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LicenseRef-PD: LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():libsqlite3-dev:3.45.3
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LicenseRef-PD: LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():sparrow-hawk-fw:1.0
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LicenseRef-Firmware-r8a779g_pcie_phy: LicenseRef-Firmware-r8a779g-pcie-phy
+- id: SpdxDocumentFile:OpenEmbedded ():sparrow-hawk-fw-dev:1.0
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LicenseRef-Firmware-r8a779g_pcie_phy: LicenseRef-Firmware-r8a779g-pcie-phy
+- id: SpdxDocumentFile:OpenEmbedded ():sqlite3:3.45.3
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LicenseRef-PD: LicenseRef-scancode-public-domain
+- id: SpdxDocumentFile:OpenEmbedded ():xz-dev:5.4.7
+  curations:
+    comment: Map Yocto LicenseRef-* IDs to equivalent IDs known to ORT, or to valid SPDX LicenseRef IDs.
+    declared_license_mapping:
+      LicenseRef-PD AND GPL-2.0-or-later: LicenseRef-scancode-public-domain AND GPL-2.0-or-later
