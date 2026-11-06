@@ -14,3 +14,11 @@ issues:
   - message: ".*DownloadException: No source artifact URL provided for 'Maven:com.android..*"
     reason: "CANT_FIX_ISSUE"
     comment: "Android SDK Maven artifacts commonly neither declare an SCM tag nor have sources artifacts published."
+
+rule_violations:
+  - message: ".*LicenseRef-Firmware-r8a779g-pcie-phy.*"
+    reason: "LICENSE_ACQUIRED_EXCEPTION"
+    comment: "Firmware of Synopsys and Renesas published in linux-firmware (LICENCE.r8a779g_pcie_phy). Redistribution in binary form without modification is permitted if the copyright notice and the disclaimer are reproduced, and reverse engineering is not permitted. The license text is included in the NOTICE file."
+  - message: ".*LicenseRef-Renesas-GFX.*"
+    reason: "LICENSE_ACQUIRED_EXCEPTION"
+    comment: "Renesas GFX user module (rcar-gfx-License.txt). Redistribution and use in binary form without modification are permitted only with Renesas Electronics devices, and reverse engineering is not permitted. Sparrow Hawk uses R-Car V4H, which is a Renesas device. The license text is included in the NOTICE file."

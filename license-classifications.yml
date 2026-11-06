@@ -13210,3 +13210,11 @@ categorizations:
   categories:
   - "permissive"
   - "include-in-notice-file"
+- id: "LicenseRef-Firmware-r8a779g-pcie-phy"
+  categories:
+  - "proprietary-free"
+  - "include-in-notice-file"
+- id: "LicenseRef-Renesas-GFX"
+  categories:
+  - "free-restricted"
+  - "include-in-notice-file"
