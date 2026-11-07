@@ -13218,3 +13218,247 @@ categorizations:
   categories:
   - "free-restricted"
   - "include-in-notice-file"
+
+- id: "Apache-2.0 WITH LLVM-exception"
+  categories:
+  - "permissive"
+  - "include-in-notice-file"
+- id: "FTL WITH Autoconf-exception-generic"
+  categories:
+  - "permissive"
+  - "include-in-notice-file"
+- id: "GPL-1.0-or-later WITH Autoconf-exception-generic"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-1.0-or-later WITH Autoconf-exception-macro"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-1.0-or-later WITH Linux-syscall-note"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-1.0-or-later WITH PS-or-PDF-font-exception-20170817"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-only WITH GCC-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-only WITH Linux-syscall-note"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-only WITH mif-exception"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-only WITH u-boot-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH Autoconf-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH Autoconf-exception-generic"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH Autoconf-exception-macro"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH Bison-exception-1.24"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH Font-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH GCC-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH GNAT-exception"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH GNU-compiler-exception"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH Libtool-exception"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH LicenseRef-scancode-autoopts-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH LicenseRef-scancode-gcc-compiler-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH LicenseRef-scancode-linking-exception-2.0-plus"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH LicenseRef-scancode-openmotif-exception-2.0-plus"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH LicenseRef-scancode-subcommander-exception-2.0plus"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH Linux-syscall-note"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH Texinfo-exception"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH eCos-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH mif-exception"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-2.0-or-later WITH u-boot-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-3.0-or-later WITH Autoconf-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-3.0-or-later WITH Autoconf-exception-3.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-3.0-or-later WITH Autoconf-exception-generic"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-3.0-or-later WITH Autoconf-exception-generic-3.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-3.0-or-later WITH Autoconf-exception-macro"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-3.0-or-later WITH Bison-exception-2.2"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-3.0-or-later WITH Font-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-3.0-or-later WITH GCC-exception-2.0"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-3.0-or-later WITH Libtool-exception"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-3.0-or-later WITH LicenseRef-scancode-linking-exception-2.0-plus"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "GPL-3.0-or-later WITH Texinfo-exception"
+  categories:
+  - "copyleft"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "LGPL-2.0-only WITH LicenseRef-scancode-qt-kde-linking-exception"
+  categories:
+  - "copyleft-limited"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "LGPL-2.0-or-later WITH GCC-exception-2.0"
+  categories:
+  - "copyleft-limited"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "LGPL-2.0-or-later WITH Libtool-exception"
+  categories:
+  - "copyleft-limited"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "LGPL-2.0-or-later WITH Linux-syscall-note"
+  categories:
+  - "copyleft-limited"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "LGPL-2.1-only WITH Linux-syscall-note"
+  categories:
+  - "copyleft-limited"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "LGPL-2.1-or-later WITH LicenseRef-scancode-linking-exception-2.1-plus"
+  categories:
+  - "copyleft-limited"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "LGPL-2.1-or-later WITH LicenseRef-scancode-unlimited-link-exception-lgpl"
+  categories:
+  - "copyleft-limited"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "LGPL-2.1-or-later WITH Linux-syscall-note"
+  categories:
+  - "copyleft-limited"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
+- id: "LGPL-3.0-or-later WITH OCaml-LGPL-linking-exception"
+  categories:
+  - "copyleft-limited"
+  - "include-in-notice-file"
+  - "include-source-code-offer-in-notice-file"
